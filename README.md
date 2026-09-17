@@ -1,9 +1,7 @@
 # 深入理解 AI Agent：设计原理与工程实践
 
-[![PDF](https://img.shields.io/badge/PDF-%E4%B8%8B%E8%BD%BD-success.svg)](#-电子书) [![在线阅读](https://img.shields.io/badge/🌐_在线阅读-bojieli.github.io-success?style=flat-square)](https://bojieli.github.io/ai-agent-book/astro/) [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)](https://github.com/bojieli/ai-agent-book) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![Languages](https://img.shields.io/badge/翻译-15%20种%20语言-informational.svg)](#-电子书)
+[![PDF](https://img.shields.io/badge/PDF-%E4%B8%8B%E8%BD%BD-success.svg)](#-电子书) [![在线阅读](https://img.shields.io/badge/🌐_在线阅读-bojieli.github.io-success?style=flat-square)](https://bojieli.github.io/ai-agent-book/astro/) [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)](https://github.com/bojieli/ai-agent-book) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Trending GitHub Project of the Day](https://img.shields.io/badge/GitHub%20Trending-Project%20of%20the%20Day-orange?logo=github)](https://github.com/trending)
-
-**中文** ← 当前 · [English](docs/en/README.md) · [Español](docs/es/README.md) · [Bahasa Indonesia](docs/id/README.md) · [العربية](docs/ar/README.md) · [繁體中文（台灣）](docs/zh-TW/README.md) · [Русский](docs/ru/README.md) · [Tiếng Việt](docs/vi/README.md) · [தமிழ்](docs/ta/README.md) · [日本語](docs/ja/README.md) · [Türkçe](docs/tr/README.md) · [한국어](docs/ko/README.md) · [Magyar](docs/hu/README.md) · [עברית](README.he.md) · [Português (Brasil)](README.ptbr.md)
 
 > 📥 **[下载 PDF / EPUB](#-电子书)**（推荐）— 推荐使用 PDF / EPUB 离线阅读，排版最佳；也可[在线阅读](https://bojieli.github.io/ai-agent-book/astro/)（支持多语言切换、章节折叠、高亮与笔记，每次推送自动更新）。
 
@@ -24,24 +22,10 @@
 
 > 📥 **离线下载**（推荐，全书正文，开源免费）。以下链接始终指向 main 分支的最新构建；固定版本见 [Releases](https://github.com/bojieli/ai-agent-book/releases)：
 > - **中文（原版）**：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-CN.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-CN.epub)
-> - **英文**（社区翻译，by [@nsdevaraj](https://github.com/nsdevaraj)、[@whanyu1212](https://github.com/whanyu1212)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-en.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-en.epub)
-> - **西班牙语**（社区翻译，by [@santhreal](https://github.com/santhreal)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-es.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-es.epub)
-> - **印度尼西亚语**（社区翻译，by [@jojixyz666](https://github.com/jojixyz666)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-id.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-id.epub)
-> - **繁體中文（台灣）**（社区翻译，by [@tigercosmos](https://github.com/tigercosmos)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-TW.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-TW.epub)
-> - **俄语**（社区翻译，by [@ui99ru](https://github.com/ui99ru)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ru.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ru.epub)
-> - **泰米尔语**（社区翻译，by [@nsdevaraj](https://github.com/nsdevaraj)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ta.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ta.epub)
-> - **越南语**（社区翻译，by [@toanalien](https://github.com/toanalien)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-vi.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-vi.epub)
-> - **日语**（社区翻译，by [@eltociear](https://github.com/eltociear)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ja.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ja.epub)
-> - **阿拉伯语**（社区翻译，by [@TheSyBuilder](https://github.com/TheSyBuilder)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ar.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ar.epub)
-> - **土耳其语**（社区翻译，by [@memisemre](https://github.com/memisemre)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-tr.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-tr.epub)
-> - **韩语**（社区翻译，by [@JeongJaeSoon](https://github.com/JeongJaeSoon)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ko.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ko.epub)
-> - **匈牙利语（Magyar）**（社区翻译，by [@barmivalami0-ux](https://github.com/barmivalami0-ux)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-hu.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-hu.epub)
-> - **希伯来语（עברית）**（社区翻译，by [@itzikwo](https://github.com/itzikwo)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-he.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-he.epub)
-> - **葡萄牙语（巴西）**（社区翻译，by [@leofn](https://github.com/leofn)，配图翻译 by [@LibnaRaffaely](https://github.com/LibnaRaffaely)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ptbr.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-ptbr.epub)
 >
 > 🌐 也可[在线阅读](https://bojieli.github.io/ai-agent-book/astro/) — 支持多语言切换、章节折叠、高亮与笔记、配套实验直达，每次 main 分支推送后自动重新构建。
 
-中文正文源码位于 [`book/`](book/)；英文/西班牙语/印度尼西亚语/阿拉伯语/繁體中文（台灣）/俄语/泰米尔/越南语/日语/土耳其语/韩语/匈牙利语/希伯来语/葡萄牙语（巴西）版本为社区贡献（可能滞后于中文原版），分别位于 [`book-en/`](book-en/)、[`book-es/`](book-es/)、[`book-id/`](book-id/)、[`book-ar/`](book-ar/)、[`book-zhtw/`](book-zhtw/)、[`book-ru/`](book-ru/)、[`book-ta/`](book-ta/)、[`book-vi/`](book-vi/)、[`book-ja/`](book-ja/)、[`book-tr/`](book-tr/)、[`book-ko/`](book-ko/)、[`book-hu/`](book-hu/)、[`book-he/`](book-he/)、[`book-ptbr/`](book-ptbr/)。
+中文正文源码位于 [`book/`](book/)。
 
 <details>
 <summary><b>🔧 想自行编译 PDF / EPUB？</b>（PDF 需 pandoc / xelatex / ElegantBook）</summary>
@@ -119,14 +103,6 @@ uv run python chapter1/context/main.py
 | **Krill AI** | [www.krill-code.com](https://www.krill-code.com/register?invite=Q8D3L35725) | 一站式访问全球及国内主流模型（OpenAI、Claude、Gemini、Grok、Kimi、GLM、DeepSeek、Qwen、Minimax） | 全球 + 中国大陆 |
 | **OpenRouter** | <https://openrouter.ai/> | 一站式访问全球及国内主流模型（GPT、Claude、Gemini、Kimi、GLM、DeepSeek、Qwen 等） | 全球 |
 
-## 💎 赞助商
-
-感谢 **Krill AI** 赞助本项目！Krill 提供 GPT / Claude / Gemini / 多款国产模型的官方稳定极速 API 中转服务，支持企业级定制、报销开票、7×16h 专属技术支持，更有独家适配的 WebSocket 连接方式，畅享极速首字速度。
-
-Krill 为本书读者提供特别优惠：使用[此链接](https://www.krill-code.com/register?invite=Q8D3L35725)注册并在充值时填写优惠码「ai-agent-book」，首次购买 Codex 套餐可享 77 折优惠！
-
-> 🧪 配套实验的执行状态、证据与未完成门禁单独记录在 [`docs/EXPERIMENT_STATUS.md`](docs/EXPERIMENT_STATUS.md)；克隆或安装源码不代表实验完成。
-
 ## 📦 附录 · 外部仓库获取
 
 本附录列出第 6、7、8、10 章与实验直接映射的 22 个外部仓库，另含 1 个辅助训练 cookbook；它们**不作为本书源码内置依赖**（出于体积与版权），需要自行克隆到对应目录。部分训练项目还会按各自 README 拉取模型、数据集和模拟器依赖，不计入这 22 个直接映射。以下版本来自 2026-07-30 工作区 checkout 或同日只读上游审计；固定源码只建立复现起点，不代表训练、硬件、浏览器或多 Agent 实验已经执行。
@@ -187,110 +163,6 @@ git clone https://github.com/joonspk-research/generative_agents.git chapter10/ge
 
 提交前建议先把相关实验亲手跑一遍、确认可复现；也欢迎先提 issue 讨论想法。
 
-## ❤️ 贡献者
-
-感谢所有为本书贡献内容、代码、翻译和修正的贡献者！点击头像即可访问他们的 GitHub 主页，也欢迎你加入。
-
-<!-- CONTRIBUTORS: GitHub contributors for bojieli/ai-agent-book, plus translators credited above. -->
-<p>
-  <a href="https://github.com/bojieli"><img src="https://avatars.githubusercontent.com/u/1421793?v=4&amp;s=128" width="64" height="64" alt="@bojieli" title="@bojieli" /></a>
-  <a href="https://github.com/santhreal"><img src="https://avatars.githubusercontent.com/u/64453045?v=4&amp;s=128" width="64" height="64" alt="@santhreal" title="@santhreal" /></a>
-  <a href="https://github.com/whanyu1212"><img src="https://avatars.githubusercontent.com/u/107110503?v=4&amp;s=128" width="64" height="64" alt="@whanyu1212" title="@whanyu1212" /></a>
-  <a href="https://github.com/thejesh23"><img src="https://avatars.githubusercontent.com/u/35212698?v=4&amp;s=128" width="64" height="64" alt="@thejesh23" title="@thejesh23" /></a>
-  <a href="https://github.com/apps/github-actions"><img src="https://avatars.githubusercontent.com/in/15368?v=4&amp;s=128" width="64" height="64" alt="@github-actions[bot]" title="@github-actions[bot]" /></a>
-  <a href="https://github.com/jojixyz666"><img src="https://avatars.githubusercontent.com/u/45513573?v=4&amp;s=128" width="64" height="64" alt="@jojixyz666" title="@jojixyz666" /></a>
-  <a href="https://github.com/ranxi2001"><img src="https://avatars.githubusercontent.com/u/77790009?v=4&amp;s=128" width="64" height="64" alt="@ranxi2001" title="@ranxi2001" /></a>
-  <a href="https://github.com/JeongJaeSoon"><img src="https://avatars.githubusercontent.com/u/53788601?v=4&amp;s=128" width="64" height="64" alt="@JeongJaeSoon" title="@JeongJaeSoon" /></a>
-  <a href="https://github.com/phaethix"><img src="https://avatars.githubusercontent.com/u/53891741?v=4&amp;s=128" width="64" height="64" alt="@phaethix" title="@phaethix" /></a>
-  <a href="https://github.com/tanapok"><img src="https://avatars.githubusercontent.com/u/25226381?v=4&amp;s=128" width="64" height="64" alt="@tanapok" title="@tanapok" /></a>
-  <a href="https://github.com/ady-ai"><img src="https://avatars.githubusercontent.com/u/270399566?v=4&amp;s=128" width="64" height="64" alt="@ady-ai" title="@ady-ai" /></a>
-  <a href="https://github.com/WeZZard"><img src="https://avatars.githubusercontent.com/u/960509?v=4&amp;s=128" width="64" height="64" alt="@WeZZard" title="@WeZZard" /></a>
-  <a href="https://github.com/Cyan95"><img src="https://avatars.githubusercontent.com/u/25197295?v=4&amp;s=128" width="64" height="64" alt="@Cyan95" title="@Cyan95" /></a>
-  <a href="https://github.com/RichieMccaw"><img src="https://avatars.githubusercontent.com/u/15827631?v=4&amp;s=128" width="64" height="64" alt="@RichieMccaw" title="@RichieMccaw" /></a>
-  <a href="https://github.com/xiaoaozz"><img src="https://avatars.githubusercontent.com/u/104616274?v=4&amp;s=128" width="64" height="64" alt="@xiaoaozz" title="@xiaoaozz" /></a>
-  <a href="https://github.com/mackt"><img src="https://avatars.githubusercontent.com/u/103027852?v=4&amp;s=128" width="64" height="64" alt="@mackt" title="@mackt" /></a>
-  <a href="https://github.com/HiAsh02"><img src="https://avatars.githubusercontent.com/u/195555098?v=4&amp;s=128" width="64" height="64" alt="@HiAsh02" title="@HiAsh02" /></a>
-  <a href="https://github.com/shao-shuai"><img src="https://avatars.githubusercontent.com/u/28980017?v=4&amp;s=128" width="64" height="64" alt="@shao-shuai" title="@shao-shuai" /></a>
-  <a href="https://github.com/jackiesre721"><img src="https://avatars.githubusercontent.com/u/8868514?v=4&amp;s=128" width="64" height="64" alt="@jackiesre721" title="@jackiesre721" /></a>
-  <a href="https://github.com/jinzcdev"><img src="https://avatars.githubusercontent.com/u/33695160?v=4&amp;s=128" width="64" height="64" alt="@jinzcdev" title="@jinzcdev" /></a>
-  <a href="https://github.com/toanalien"><img src="https://avatars.githubusercontent.com/u/5405744?v=4&amp;s=128" width="64" height="64" alt="@toanalien" title="@toanalien" /></a>
-  <a href="https://github.com/memisemre"><img src="https://avatars.githubusercontent.com/u/113227617?v=4&amp;s=128" width="64" height="64" alt="@memisemre" title="@memisemre" /></a>
-  <a href="https://github.com/FourWindff"><img src="https://avatars.githubusercontent.com/u/143734617?v=4&amp;s=128" width="64" height="64" alt="@FourWindff" title="@FourWindff" /></a>
-  <a href="https://github.com/a00012025"><img src="https://avatars.githubusercontent.com/u/12824216?v=4&amp;s=128" width="64" height="64" alt="@a00012025" title="@a00012025" /></a>
-  <a href="https://github.com/xhhhz"><img src="https://avatars.githubusercontent.com/u/148038281?v=4&amp;s=128" width="64" height="64" alt="@xhhhz" title="@xhhhz" /></a>
-  <a href="https://github.com/Rainbow-prince"><img src="https://avatars.githubusercontent.com/u/114672227?v=4&amp;s=128" width="64" height="64" alt="@Rainbow-prince" title="@Rainbow-prince" /></a>
-  <a href="https://github.com/tigercosmos"><img src="https://avatars.githubusercontent.com/u/18013815?v=4&amp;s=128" width="64" height="64" alt="@tigercosmos" title="@tigercosmos" /></a>
-  <a href="https://github.com/zimo-xiao-zheng"><img src="https://avatars.githubusercontent.com/u/294220494?v=4&amp;s=128" width="64" height="64" alt="@zimo-xiao-zheng" title="@zimo-xiao-zheng" /></a>
-  <a href="https://github.com/tortrixx"><img src="https://avatars.githubusercontent.com/u/182950992?v=4&amp;s=128" width="64" height="64" alt="@tortrixx" title="@tortrixx" /></a>
-  <a href="https://github.com/ui99ru"><img src="https://avatars.githubusercontent.com/u/216850424?v=4&amp;s=128" width="64" height="64" alt="@ui99ru" title="@ui99ru" /></a>
-  <a href="https://github.com/MarvinSunnnn"><img src="https://avatars.githubusercontent.com/u/136772096?v=4&amp;s=128" width="64" height="64" alt="@MarvinSunnnn" title="@MarvinSunnnn" /></a>
-  <a href="https://github.com/khalilurrrahmanridoykhan"><img src="https://avatars.githubusercontent.com/u/114473324?v=4&amp;s=128" width="64" height="64" alt="@khalilurrrahmanridoykhan" title="@khalilurrrahmanridoykhan" /></a>
-  <a href="https://github.com/joonion"><img src="https://avatars.githubusercontent.com/u/312419?v=4&amp;s=128" width="64" height="64" alt="@joonion" title="@joonion" /></a>
-  <a href="https://github.com/leofn"><img src="https://avatars.githubusercontent.com/u/10790532?v=4&amp;s=128" width="64" height="64" alt="@leofn" title="@leofn" /></a>
-  <a href="https://github.com/TommyHuang2025"><img src="https://avatars.githubusercontent.com/u/219638197?v=4&amp;s=128" width="64" height="64" alt="@TommyHuang2025" title="@TommyHuang2025" /></a>
-  <a href="https://github.com/devpowerpro"><img src="https://avatars.githubusercontent.com/u/13460009?v=4&amp;s=128" width="64" height="64" alt="@devpowerpro" title="@devpowerpro" /></a>
-  <a href="https://github.com/xiezhidao"><img src="https://avatars.githubusercontent.com/u/12536489?v=4&amp;s=128" width="64" height="64" alt="@xiezhidao" title="@xiezhidao" /></a>
-  <a href="https://github.com/umutc"><img src="https://avatars.githubusercontent.com/u/10675121?v=4&amp;s=128" width="64" height="64" alt="@umutc" title="@umutc" /></a>
-  <a href="https://github.com/Arnold5893"><img src="https://avatars.githubusercontent.com/u/206388431?v=4&amp;s=128" width="64" height="64" alt="@Arnold5893" title="@Arnold5893" /></a>
-  <a href="https://github.com/zhyupeee"><img src="https://avatars.githubusercontent.com/u/231644333?v=4&amp;s=128" width="64" height="64" alt="@zhyupeee" title="@zhyupeee" /></a>
-  <a href="https://github.com/reacher-z"><img src="https://avatars.githubusercontent.com/u/68239571?v=4&amp;s=128" width="64" height="64" alt="@reacher-z" title="@reacher-z" /></a>
-  <a href="https://github.com/yuzhichang"><img src="https://avatars.githubusercontent.com/u/153784?v=4&amp;s=128" width="64" height="64" alt="@yuzhichang" title="@yuzhichang" /></a>
-  <a href="https://github.com/barmivalami0-ux"><img src="https://avatars.githubusercontent.com/u/265626454?v=4&amp;s=128" width="64" height="64" alt="@barmivalami0-ux" title="@barmivalami0-ux" /></a>
-  <a href="https://github.com/caicaijiji"><img src="https://avatars.githubusercontent.com/u/44741190?v=4&amp;s=128" width="64" height="64" alt="@caicaijiji" title="@caicaijiji" /></a>
-  <a href="https://github.com/cheese-and-cod"><img src="https://avatars.githubusercontent.com/u/71440115?v=4&amp;s=128" width="64" height="64" alt="@cheese-and-cod" title="@cheese-and-cod" /></a>
-  <a href="https://github.com/cosmicrealm"><img src="https://avatars.githubusercontent.com/u/162564474?v=4&amp;s=128" width="64" height="64" alt="@cosmicrealm" title="@cosmicrealm" /></a>
-  <a href="https://github.com/wyx20021207-create"><img src="https://avatars.githubusercontent.com/u/245476731?v=4&amp;s=128" width="64" height="64" alt="@wyx20021207-create" title="@wyx20021207-create" /></a>
-  <a href="https://github.com/jhyan-ux"><img src="https://avatars.githubusercontent.com/u/181497289?v=4&amp;s=128" width="64" height="64" alt="@jhyan-ux" title="@jhyan-ux" /></a>
-  <a href="https://github.com/marvin9551"><img src="https://avatars.githubusercontent.com/u/12985580?v=4&amp;s=128" width="64" height="64" alt="@marvin9551" title="@marvin9551" /></a>
-  <a href="https://github.com/milkpku"><img src="https://avatars.githubusercontent.com/u/8202678?v=4&amp;s=128" width="64" height="64" alt="@milkpku" title="@milkpku" /></a>
-  <a href="https://github.com/zjn20030811"><img src="https://avatars.githubusercontent.com/u/285381669?v=4&amp;s=128" width="64" height="64" alt="@zjn20030811" title="@zjn20030811" /></a>
-  <a href="https://github.com/binyangzhu000-sudo"><img src="https://avatars.githubusercontent.com/u/224954946?v=4&amp;s=128" width="64" height="64" alt="@binyangzhu000-sudo" title="@binyangzhu000-sudo" /></a>
-  <a href="https://github.com/octo-patch"><img src="https://avatars.githubusercontent.com/u/266937838?v=4&amp;s=128" width="64" height="64" alt="@octo-patch" title="@octo-patch" /></a>
-  <a href="https://github.com/GeeSuth"><img src="https://avatars.githubusercontent.com/u/10328974?v=4&amp;s=128" width="64" height="64" alt="@GeeSuth" title="@GeeSuth" /></a>
-  <a href="https://github.com/wesleyzhangwq"><img src="https://avatars.githubusercontent.com/u/275724973?v=4&amp;s=128" width="64" height="64" alt="@wesleyzhangwq" title="@wesleyzhangwq" /></a>
-  <a href="https://github.com/wuuer"><img src="https://avatars.githubusercontent.com/u/16719139?v=4&amp;s=128" width="64" height="64" alt="@wuuer" title="@wuuer" /></a>
-  <a href="https://github.com/hun9008"><img src="https://avatars.githubusercontent.com/u/79917152?v=4&amp;s=128" width="64" height="64" alt="@hun9008" title="@hun9008" /></a>
-  <a href="https://github.com/youmikuang"><img src="https://avatars.githubusercontent.com/u/16145443?v=4&amp;s=128" width="64" height="64" alt="@youmikuang" title="@youmikuang" /></a>
-  <a href="https://github.com/yzxcj797"><img src="https://avatars.githubusercontent.com/u/54314860?v=4&amp;s=128" width="64" height="64" alt="@yzxcj797" title="@yzxcj797" /></a>
-  <a href="https://github.com/bonnie57"><img src="https://avatars.githubusercontent.com/u/146059114?v=4&amp;s=128" width="64" height="64" alt="@bonnie57" title="@bonnie57" /></a>
-  <a href="https://github.com/seulchan"><img src="https://avatars.githubusercontent.com/u/22427007?v=4&amp;s=128" width="64" height="64" alt="@seulchan" title="@seulchan" /></a>
-  <a href="https://github.com/HanChangHun"><img src="https://avatars.githubusercontent.com/u/42842339?v=4&amp;s=128" width="64" height="64" alt="@HanChangHun" title="@HanChangHun" /></a>
-  <a href="https://github.com/kuma0605"><img src="https://avatars.githubusercontent.com/u/2958589?v=4&amp;s=128" width="64" height="64" alt="@kuma0605" title="@kuma0605" /></a>
-  <a href="https://github.com/claude"><img src="https://avatars.githubusercontent.com/u/81847?v=4&amp;s=128" width="64" height="64" alt="@claude" title="@claude" /></a>
-  <a href="https://github.com/Dante-dan"><img src="https://avatars.githubusercontent.com/u/19773791?v=4&amp;s=128" width="64" height="64" alt="@Dante-dan" title="@Dante-dan" /></a>
-  <a href="https://github.com/DarkModest"><img src="https://avatars.githubusercontent.com/u/87920425?v=4&amp;s=128" width="64" height="64" alt="@DarkModest" title="@DarkModest" /></a>
-  <a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4&amp;s=128" width="64" height="64" alt="@eltociear" title="@eltociear" /></a>
-  <a href="https://github.com/itzikwo"><img src="https://avatars.githubusercontent.com/u/66737727?v=4&amp;s=128" width="64" height="64" alt="@itzikwo" title="@itzikwo" /></a>
-  <a href="https://github.com/jdzhang1221"><img src="https://avatars.githubusercontent.com/u/29417118?v=4&amp;s=128" width="64" height="64" alt="@jdzhang1221" title="@jdzhang1221" /></a>
-  <a href="https://github.com/ktwu01"><img src="https://avatars.githubusercontent.com/u/140198731?v=4&amp;s=128" width="64" height="64" alt="@ktwu01" title="@ktwu01" /></a>
-  <a href="https://github.com/LU90210"><img src="https://avatars.githubusercontent.com/u/102472519?v=4&amp;s=128" width="64" height="64" alt="@LU90210" title="@LU90210" /></a>
-  <a href="https://github.com/beatenevo"><img src="https://avatars.githubusercontent.com/u/148294076?v=4&amp;s=128" width="64" height="64" alt="@beatenevo" title="@beatenevo" /></a>
-  <a href="https://github.com/Lucien2714"><img src="https://avatars.githubusercontent.com/u/57436877?v=4&amp;s=128" width="64" height="64" alt="@Lucien2714" title="@Lucien2714" /></a>
-  <a href="https://github.com/MagMueller"><img src="https://avatars.githubusercontent.com/u/67061560?v=4&amp;s=128" width="64" height="64" alt="@MagMueller" title="@MagMueller" /></a>
-  <a href="https://github.com/rajathpi"><img src="https://avatars.githubusercontent.com/u/82278285?v=4&amp;s=128" width="64" height="64" alt="@rajathpi" title="@rajathpi" /></a>
-  <a href="https://github.com/Wang-Ray"><img src="https://avatars.githubusercontent.com/u/1308778?v=4&amp;s=128" width="64" height="64" alt="@Wang-Ray" title="@Wang-Ray" /></a>
-  <a href="https://github.com/Anai-Guo"><img src="https://avatars.githubusercontent.com/u/275560793?v=4&amp;s=128" width="64" height="64" alt="@Anai-Guo" title="@Anai-Guo" /></a>
-  <a href="https://github.com/TheSyBuilder"><img src="https://avatars.githubusercontent.com/u/83873072?v=4&amp;s=128" width="64" height="64" alt="@TheSyBuilder" title="@TheSyBuilder" /></a>
-  <a href="https://github.com/Upper9527"><img src="https://avatars.githubusercontent.com/u/76113672?v=4&amp;s=128" width="64" height="64" alt="@Upper9527" title="@Upper9527" /></a>
-  <a href="https://github.com/Yixiang-Wu"><img src="https://avatars.githubusercontent.com/u/37044916?v=4&amp;s=128" width="64" height="64" alt="@Yixiang-Wu" title="@Yixiang-Wu" /></a>
-  <a href="https://github.com/nsdevaraj"><img src="https://avatars.githubusercontent.com/u/274062?v=4&amp;s=128" width="64" height="64" alt="@nsdevaraj" title="@nsdevaraj" /></a>
-</p>
-<!-- /CONTRIBUTORS -->
-
-[查看 GitHub 上的全部贡献记录 →](https://github.com/bojieli/ai-agent-book/graphs/contributors)
-
 ## 📄 许可证
 
 本项目采用 [Apache License 2.0](LICENSE) 开源许可证，详见 [`LICENSE`](LICENSE) 文件。部分子项目可能包含各自的许可证信息，请以子项目中的说明为准。
-
-## ⭐ Star History
-
-<a href="https://star-history.com/#bojieli/ai-agent-book&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/star-history-light.png" />
-    <img alt="Star History Chart" src="assets/star-history-light.png" width="100%" />
-  </picture>
-</a>
-
-<sub>由 [`scripts/gen_star_history.py`](scripts/gen_star_history.py) 生成，[GitHub Actions](.github/workflows/star-history.yml) 每日自动更新 · 点击图片查看实时数据</sub>
